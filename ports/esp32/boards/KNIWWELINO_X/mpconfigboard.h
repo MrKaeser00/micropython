@@ -1,0 +1,3 @@
+#define MICROPY_HW_BOARD_NAME "KniwwelinoX"
+#define MICROPY_HW_MCU_NAME "ESP32-D0WD"
+
